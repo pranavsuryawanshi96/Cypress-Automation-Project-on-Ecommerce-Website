@@ -36,28 +36,7 @@ opencart-ecommerce-automation/ ├── cypress/ │ ├── integration/ │
 
 ---
 
-## **Installation & Usage**  
-### **Step 1**: Clone the Repository  
-```bash
-git clone <repository-url>
-cd opencart-ecommerce-automation
- Step 2: Install Dependencies
-bash
-Copy code
-npm install
-Step 3: Run Tests
-Headless Mode:
-bash
-Copy code
-npx cypress run
-Interactive Mode:
-bash
-Copy code
-npx cypress open
-Credentials
-You don’t need any special credentials to access and test the OpenCart demo site.
 
-APIs Used
 This project does not interact directly with APIs. It focuses on UI-based test automation.
 
 API Endpoints
