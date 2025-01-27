@@ -3,7 +3,7 @@ import LoginPage from "../support/PageObjectModel/Login.cy";
 import compareProduct from "../support/PageObjectModel/CompareProduct.cy";
 import Purchase from "../support/PageObjectModel/Purchase.cy";
 import EditAccount from "../support/PageObjectModel/EditAccount.cy";
-import changePassword from "../support/PageObjectModel/ChangePassword.cy";
+import changePassword from "../support/PageObjectModel/changePassword.cy";
 import wishList from "../support/PageObjectModel/addToWishList.cy";
 
 // Test suite for the Opencart application
